@@ -1,0 +1,13 @@
+Invalid number format in line: 12387+1-88341
+Sum of digits for 1: 1
+Sum of digits for 2: 2
+Sum of digits for 3: 3
+Sum of digits for 84: 12
+Sum of digits for 8: 8
+Sum of digits for 1: 1
+Invalid number format in line: hello
+Total numbers processed: 6
+Total sum of all digits: 27
+Average sum of digits: 4.5
+Minimum sum of digits: 1
+Maximum sum of digits: 12
